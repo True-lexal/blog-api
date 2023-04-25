@@ -1,2 +1,2 @@
 # blog-api
-drf learning project
+drf test project
